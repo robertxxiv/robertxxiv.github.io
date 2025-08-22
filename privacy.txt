@@ -1,0 +1,66 @@
+Privacy Policy
+
+Last updated: 22.08.2025
+
+I (“I,” “me,” or “the developer”) respect your privacy and am committed to protecting your personal information. This Privacy Policy explains how I handle data when you use my projects, applications, or related services (collectively, the “Services”). Since this is a personal, non-profit project, I only collect and process the minimum information necessary to make the Services work.
+
+1. Information I Collect
+
+Personal Information (only if you provide it): e.g., your email address if you contact me directly.
+
+Technical Information: such as IP address, browser type, operating system, and usage data, which may be automatically collected by hosting providers or analytics tools.
+
+Cookies: some Services may use cookies or similar technologies for basic functionality (not for tracking or advertising).
+
+2. How I Use Your Information
+
+I use collected information solely to:
+
+Provide and maintain the Services.
+
+Respond to your inquiries if you contact me.
+
+Improve functionality and fix bugs.
+I do not use your data for marketing, profiling, or commercial purposes.
+
+3. Sharing of Information
+
+I do not sell or rent your information. Data may only be shared with:
+
+Service providers/hosting platforms (e.g., GitHub, Netlify, or cloud providers) as necessary to run the Services.
+
+Legal authorities if required by law.
+
+4. Data Retention
+
+I keep your data only for as long as needed to operate the Services or to comply with legal obligations.
+
+5. Your Rights
+
+If you are in the EU/EEA or other jurisdictions with data protection laws, you may have rights to:
+
+Access, correct, or delete your personal data.
+
+Restrict or object to certain processing.
+
+Withdraw consent at any time (where applicable).
+
+To exercise these rights, please contact me at the email below.
+
+6. Security
+
+I take reasonable steps to protect your data, but please note that no method of transmission or storage is 100% secure.
+
+7. Children’s Privacy
+
+My Services are not intended for children under 13 (or the age required by your jurisdiction). I do not knowingly collect data from children.
+
+8. Changes to This Policy
+
+I may update this Privacy Policy occasionally. Updates will be posted with a new “Last updated” date.
+
+9. Contact
+
+If you have questions or requests regarding this Privacy Policy, you can contact me:
+
+[RobertXXIV]
